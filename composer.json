@@ -1,0 +1,31 @@
+{
+    "name": "quoma/yii2-page-editor",
+    "description": "Page editor",
+    "license": "quoma",
+    "authors": [
+        {
+            "name": "Quoma",
+            "email": "info@quoma.com.ar"
+        }
+    ],
+
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "yiisoft/yii2-jui": "~2.0.0",
+        "quoma/yii2-core-components": ">=1.0.0"
+    },
+    "repositories" : [
+        {
+            "type": "vcs",
+            "url": "https://bitbucket.org/quomateam/yii2-core-components.git"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "quoma\\pageeditor\\": ""
+        }
+    }
+
+}
+
