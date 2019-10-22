@@ -17,7 +17,7 @@
     "repositories" : [
         {
             "type": "vcs",
-            "url": "https://bitbucket.org/quomateam/yii2-core-components.git"
+            "url": "https://github.com/cimeco/dla-yii2-core-components.git"
         }
     ],
 
